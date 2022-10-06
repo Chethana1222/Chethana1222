@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Chethana1222
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning React
